@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: chloekim115.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -32,6 +32,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Tables
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
+
 content:
   - title: What I did # Title for the section
     layout: list # Type of content section (list/text)
@@ -43,24 +44,19 @@ content:
           과거 Big3 패스트푸드 브랜드였던 파파이스 분석 결과 정확한 타겟이 없다는 문제점을 발견하였습니다.
           | 파파이스의 내부환경 분석을 바탕으로 직장인을 타겟으로 하는 All day occasion을 기획하였습니다.
           | 회사 규모와 수에 따른 점포 선정, 파파이스의 현금흐름을 감안하여 이동식 푸드트럭을 제시 등 4P전략을 통한 all day occasion 이미지 구축을 위한 기획을 하였습니다.
-       |  
        - layout: left
         title: 4th Generation Study 
         quote: >
           4차산업 그룹 스터디 (2017)
         description: | # this will include new lines to allow paragraphs
           튜티로 참가하여 6명의 소그룹을 구성하여 4차산업 기술에 대해 공유하고 이야기를 나누었습니다. 
-          매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.
-          
-        |   
+          매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.  
        - layout: left
         title: Study English
         quote: >
           소통하고 공유할 수 있는 영어 (2018)
         description: | # this will include new lines to allow paragraphs
           소통을 위한 영어공부를 그룹멤버들과 진행하였습니다. 쉐도우 스피킹으로 문장 구조와 억양을 익혔고, 매달 영어 연극을 준비하였습니다. 특히 디즈니 원작인 Coco를 두 달에 걸쳐 대본을 구상하였습니다. 
-          
-          
        - layout: left
         title: Exchange Study in US
         quote: >
@@ -71,8 +67,6 @@ content:
           처음에는 자음의 위치에 따라 바뀌는 모양을 어려워하던 친구들이 한국어를 더 잘 쓰고, 가벼운 인사 및 위치 설명을 할 수 있을 만큼 말하는 것을 보고 보람을 느꼈습니다. 
           저 또한 현지학생들의 성향에 따른 다양한 종류의 자유시간을 경험할 수 있었습니다. 
           무엇보다 주말에 같이 쇼핑몰에 가거나, 기숙사에서 서로의 음식을 만들어 줄 때, 그리고 제 생일에 Austin에 갈 때 가장 즐겁고 튜터링을 잘 했다는 생각이 들었습니다. 
-       
-       
        - layout: left
         title: Global tutoring
         quote: >
@@ -83,7 +77,6 @@ content:
           
      
                  
-          
   - title: Experience
     layout: list
     content:
