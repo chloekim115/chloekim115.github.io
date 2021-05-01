@@ -20,20 +20,7 @@ github_username:  chloekim15
 
 
 
-# Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
@@ -46,27 +33,34 @@ about_content: | # this will include new lines to allow paragraphs
     - <a href="google.com">Links</a>
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 content:
-  - title: Projects # Title for the section
+  - title: What I did # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Repositioning POPEYES
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          All day occasion을 통한 리포지셔닝 제시
+          All day occasion을 통한 파파이스 리포지셔닝 제시 (2017)
         description: | # this will include new lines to allow paragraphs
           과거 Big3 패스트푸드 브랜드였던 파파이스 분석 결과 정확한 타겟이 없다는 문제점을 발견하였습니다.
-           | 파파이스의 내부환경 분석 결과 1) 간편성 2)시간 절약 3)직장인의 접근성이 높게 측정되었습니다.
-           | 이를 바탕으로 직장인을 타겟으로 하는 All day occasion을 기획하였습니다.
-           | 회사 규모와 수에 따른 점포 선정, 파파이스의 현금흐름을 감안하여 이동식 푸드트럭을 제시 등 4P전략을 통한 all day occasion 이미지 구축을 위한 기획을 하였습니다.
+          | 파파이스의 내부환경 분석을 바탕으로 직장인을 타겟으로 하는 All day occasion을 기획하였습니다.
+          | 회사 규모와 수에 따른 점포 선정, 파파이스의 현금흐름을 감안하여 이동식 푸드트럭을 제시 등 4P전략을 통한 all day occasion 이미지 구축을 위한 기획을 하였습니다.
+        
+       - layout: left
+        title: 4th Generation Study 
+        quote: >
+          4차산업 그룹 스터디 (2017)
+        description: | # this will include new lines to allow paragraphs
+          튜티로 참가하여 6명의 소그룹을 구성하여 4차산업 기술에 대해 공유하고 이야기를 나누었습니다. 
+          매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.
+          
+       - layout: left
+        title: Exchange Study in US
+        quote: >
+          텍사스 주 샌안토니오에서 한 학기동안의 교환학생 (2019)
+        description: | # this will include new lines to allow paragraphs
+          튜티로 참가하여 6명의 소그룹을 구성하여 4차산업 기술에 대해 공유하고 이야기를 나누었습니다. 
+          매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.
+          
+                 
           
   - title: Experience
     layout: list
