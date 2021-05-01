@@ -52,39 +52,74 @@ content:
           튜티로 참가하여 6명의 소그룹을 구성하여 4차산업 기술에 대해 공유하고 이야기를 나누었습니다. 
           매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.
           
+          
+       - layout: left
+        title: Study English
+        quote: >
+          소통하고 공유할 수 있는 영어 (2018)
+        description: | # this will include new lines to allow paragraphs
+          소통을 위한 영어공부를 그룹멤버들과 진행하였습니다. 쉐도우 스피킹으로 문장 구조와 억양을 익혔고, 매달 영어 연극을 준비하였습니다. 특히 디즈니 원작인 Coco를 두 달에 걸쳐 대본을 구상하였습니다. 
+          
+          
        - layout: left
         title: Exchange Study in US
         quote: >
           텍사스 주 샌안토니오에서 한 학기동안의 교환학생 (2019)
         description: | # this will include new lines to allow paragraphs
-          튜티로 참가하여 6명의 소그룹을 구성하여 4차산업 기술에 대해 공유하고 이야기를 나누었습니다. 
-          매주 주제를 다르게 선정하여 적용된 기술들을 찾아 이야기 하고, 해당 기술로 어떤 서비스를 제공할 수 있는지 공유하였습니다.
+          여행 기간 동안 게스트하우스에서 처음 만난 친구와 함께 여행하는 것이 가장 재밌었습니다.
+          기숙사 생활을 하며 현지학생들과 문화 공유를 하였습니다. 미국학생은 한국 문화에 대해 배우고 한국어수업에 도움을 받을 수 있었고, 한국학생 역시 같은 경험을 할 수 있다는 생각에 한-미 튜터링 서비스를 운영하였습니다.
+          처음에는 자음의 위치에 따라 바뀌는 모양을 어려워하던 친구들이 한국어를 더 잘 쓰고, 가벼운 인사 및 위치 설명을 할 수 있을 만큼 말하는 것을 보고 보람을 느꼈습니다. 
+          저 또한 현지학생들의 성향에 따른 다양한 종류의 자유시간을 경험할 수 있었습니다. 
+          무엇보다 주말에 같이 쇼핑몰에 가거나, 기숙사에서 서로의 음식을 만들어 줄 때, 그리고 제 생일에 Austin에 갈 때 가장 즐겁고 튜터링을 잘 했다는 생각이 들었습니다. 
+       
+       
+       - layout: left
+        title: Global tutoring
+        quote: >
+          한국에서도 이어진 튜터링 (2020)
+        description: | # this will include new lines to allow paragraphs
+          미국에서 한 좋은 경험을 한국에서도 하고 싶어 한국에 있는 외국인 학생을 대상으로 튜터링을 진행하였습니다. 
+          주 1회 재무관리 수업과 조직행동 수업을 도와줬으며 한국어 자격증 시험도 도와줬습니다.
           
+     
                  
           
   - title: Experience
     layout: list
     content:
       - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+        title: Gyeonggi Center for Economy & Innovation
+        sub_title: Assistant
+        caption: January 2021
+        link: https://ccei.creativekorea.or.kr/gyeonggi/
         quote: >
-          Short description of the company (optional)
+          예비창업패키지와 로컬크리에이터 사업 서류 검토
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          한 달간의 실습동안 "내가 맡은 일을 통해 누군가에게 어떤 도움과 가치를 줄 수 있는지" 라는 업무의 마음가짐에 대해 가장 크게 배웠습니다.
+          
+          
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: Kyonggi Univ
+        sub_title: BA Business Administration
+        caption: 2017 - Present (Expected 2022.02)
+        
+  - title: Skills
+    layout: list
+    content:
+      - layout: top-right
+        title: Speaking English
+        sub_title: OPIc IH
+        
+      - layout: top-right
+        title: Accounting
+        sub_title: Medium
+        
+        
+        
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
