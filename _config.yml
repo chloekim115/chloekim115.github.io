@@ -63,9 +63,10 @@ content:
         quote: >
           All day occasion을 통한 리포지셔닝 제시
         description: | # this will include new lines to allow paragraphs
-          과거 Big3 패스트푸드 브랜드였던 파파이스 분석 결과, 정확한 타겟이 없었습니다. 
-          파파이스의 내부환경에 기초하여 역량을 측정한 결과, 1) 간편성 2)시간 절약 3)직장인의 접근성이 높게 측정되었습니다.
-          이를 바탕으로 직장인을 타겟으로 하는 All day occasion을 기획하였습니다.
+          과거 Big3 패스트푸드 브랜드였던 파파이스 분석 결과 정확한 타겟이 없다는 문제점을 발견하였습니다.
+          | 파파이스의 내부환경 분석 결과 1) 간편성 2)시간 절약 3)직장인의 접근성이 높게 측정되었습니다.
+          | 이를 바탕으로 직장인을 타겟으로 하는 All day occasion을 기획하였습니다.
+          | 회사 규모와 수에 따른 점포 선정, 파파이스의 현금흐름을 감안하여 이동식 푸드트럭을 제시 등 4P전략을 통한 all day occasion 이미지 구축을 위한 기획을 하였습니다.
           
   - title: Experience
     layout: list
